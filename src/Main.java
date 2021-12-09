@@ -7,6 +7,8 @@ public class Main {
         if (payment > 1000) {
             System.out.println(total = payment / 100 * bonus + payment + account);
         } else {
-        System.out.println(total = account + payment); } }
+            System.out.println(total = account + payment);
+        }
+    }
 
 }
